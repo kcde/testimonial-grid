@@ -102,7 +102,7 @@ img {
   display: -ms-grid;
   display: grid;
       grid-template-areas: 'dan' 'jon' 'jean' 'pat' 'kira';
-  gap: 1rem;
+  gap: 1.875rem;
 }
 
 .testimonials .testimonial {
